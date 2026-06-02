@@ -11,11 +11,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[tu-perfil]">
+  <a href="https://linkedin.com/in/ranset-fleites-999569228">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:[tu@email.com]">
+  <a href="mailto:ransetfleites0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
@@ -31,7 +31,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.nombre      = "[Tu Nombre]"
+        self.nombre      = "Ranset Fleites"
         self.ubicacion   = "México 🇲🇽"
         self.titulo      = "Desarrollador de Software Python"
         self.formacion   = "Licenciado en Contabilidad"
@@ -80,7 +80,6 @@ class Developer:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -90,12 +89,12 @@ class Developer:
 <div align="center">
 
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d28c&icon_color=00d28c&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api?username=Ranset&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d28c&icon_color=00d28c&text_color=c9d1d9"
     alt="GitHub Stats"
   />
   &nbsp;
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranset&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&langs_count=6"
     alt="Top Languages"
   />
 
@@ -103,40 +102,10 @@ class Developer:
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=tokyonight&hide_border=true&background=0d1117&ring=00d28c&fire=00d28c&currStreakLabel=00d28c"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ranset&theme=tokyonight&hide_border=true&background=0d1117&ring=00d28c&fire=00d28c&currStreakLabel=00d28c"
     alt="GitHub Streak"
   />
 </div>
-
----
-
-## 🚀 &nbsp;Proyectos destacados
-
-<div align="center">
-
-[![Sistema de Facturación](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=facturas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/facturas)
-&nbsp;
-[![API Remesas](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=api_remesas_admin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/api_remesas_admin)
-
-[![CRUD Flask SQLAlchemy](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=simple-crud-flask&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/simple-crud-flask)
-&nbsp;
-[![FCM Web Client](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=fcm-web-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/fcm-web-client)
-
-</div>
-
----
-
-## 📂 &nbsp;Todos mis proyectos
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🧾 [Sistema de Facturación](https://github.com/[tu-usuario]/facturas) | Generación y gestión de facturas con reglas de negocio | `Python` `Flask` `SQLAlchemy` `PDF` |
-| 💸 [API Remesas Admin](https://github.com/[tu-usuario]/api_remesas_admin) | API REST para administración de remesas financieras | `Python` `Flask` `REST` `SQLAlchemy` |
-| 🗄️ [Simple CRUD Flask](https://github.com/[tu-usuario]/simple-crud-flask) | CRUD completo con arquitectura MVC | `Flask` `SQLAlchemy` `SQLite` |
-| 🔔 [FCM Web Client](https://github.com/[tu-usuario]/fcm-web-client) | Cliente web para Firebase Cloud Messaging | `JavaScript` `Firebase` `FCM` |
-| 📷 [QR Reader](https://github.com/[tu-usuario]/qr_reader) | Lector de códigos QR con procesamiento de imágenes | `Python` `OpenCV` |
-| 💱 [MXN → CUP](https://github.com/[tu-usuario]/mxn-to-cup) | Conversor de divisas consumiendo APIs externas | `Python` `APIs REST` |
-| 📥 [YTdwnld](https://github.com/[tu-usuario]/YTdwnld) | Herramienta de automatización para descarga de contenido | `Python` `Automatización` |
 
 ---
 
@@ -163,11 +132,11 @@ class Developer:
 
 <br/>
 
-<a href="mailto:[tu@email.com]">
+<a href="mailto:ransetfleites0@gmail.com">
   <img src="https://img.shields.io/badge/Enviar%20un%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/[tu-perfil]">
+<a href="https://linkedin.com/in/ranset-fleites-999569228">
   <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
