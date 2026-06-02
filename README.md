@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D28C&center=true&vCenter=true&width=720&lines=Hola%2C+soy+%5BRanset%5D+%F0%9F%91%8B;Desarrollador+Python+%7C+Flask+%7C+SQLAlchemy;Automatización+%26+Sistemas+Empresariales;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D28C&center=true&vCenter=true&width=720&lines=Hola%2C+soy+Ranset+%F0%9F%91%8B;Desarrollador+Python+%7C+Flask+%7C+SQLAlchemy;Automatización+%26+Sistemas+Empresariales;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
