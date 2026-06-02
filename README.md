@@ -91,15 +91,7 @@ class Developer:
 
 <div align="center">
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Ranset&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d28c&icon_color=00d28c&text_color=c9d1d9"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranset&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&langs_count=6"
-    alt="Top Languages"
-  />
+  
 
 </div>
 
