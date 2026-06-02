@@ -1,26 +1,180 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ranset
-## Backend developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d28c&height=130&section=header" width="100%"/>
+</div>
 
-🌍  I'm based in Mexico*
+<div align="center">
 
-✉️  You can contact me at [ransetfleites0@gmail.com](mailto:ransetfleites0@gmail.com)* 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D28C&center=true&vCenter=true&width=720&lines=Hola%2C+soy+%5BTu+Nombre%5D+%F0%9F%91%8B;Desarrollador+Python+%7C+Flask+%7C+SQLAlchemy;Automatización+%26+Sistemas+Empresariales;Disponible+para+trabajar+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-🧠  I'm learning Python* 
+</div>
 
-🤝  I'm open to collaborating on Interesting projects
+<br/>
 
-### Skills
+<div align="center">
+  <a href="https://linkedin.com/in/[tu-perfil]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:[tu@email.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Disponible%20para%20trabajar-00D28C?style=for-the-badge" alt="Disponible"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&style=for-the-badge&color=00d28c&label=Visitas" alt="Profile views"/>
+</div>
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a></p>
+## 👨‍💻 &nbsp;Sobre mí
 
-### Socials<p align="left"> <a href="https://www.github.com/Ranset" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ranset-fleites-999569228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+```python
+class Developer:
+    def __init__(self):
+        self.nombre      = "[Tu Nombre]"
+        self.ubicacion   = "México 🇲🇽"
+        self.titulo      = "Desarrollador de Software Python"
+        self.formacion   = "Licenciado en Contabilidad"
+        self.aprendizaje = "Autodidacta · 5+ años construyendo proyectos reales"
 
-### Badges
+    @property
+    def ventaja_competitiva(self):
+        return [
+            "Comprendo facturas, remesas y ciclos empresariales",
+            "Traduzco necesidades de negocio a software funcional",
+            "No solo programo — entiendo el problema de raíz"
+        ]
 
-<b>My GitHub Stats</b>
+    @property
+    def buscando(self):
+        return "Desarrollador Python Junior · Backend Junior · Full Stack Junior"
+```
 
-<a href="http://www.github.com/Ranset"><img src="https://github-readme-stats.vercel.app/api?username=Ranset&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ranset's GitHub stats" /></a>
+<br/>
 
-<a href="https://github.com/Ranset" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranset&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+> 💡 **Mi background en Contabilidad no es un obstáculo — es mi ventaja.**
+> Diseño software de gestión con reglas de negocio correctas desde el primer día.
+
+---
+
+## 🛠️ &nbsp;Stack técnico
+
+**Backend & Bases de datos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Frontend & Servicios**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 &nbsp;Estadísticas GitHub
+
+<div align="center">
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d28c&icon_color=00d28c&text_color=c9d1d9"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&langs_count=6"
+    alt="Top Languages"
+  />
+
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=tokyonight&hide_border=true&background=0d1117&ring=00d28c&fire=00d28c&currStreakLabel=00d28c"
+    alt="GitHub Streak"
+  />
+</div>
+
+---
+
+## 🚀 &nbsp;Proyectos destacados
+
+<div align="center">
+
+[![Sistema de Facturación](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=facturas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/facturas)
+&nbsp;
+[![API Remesas](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=api_remesas_admin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/api_remesas_admin)
+
+[![CRUD Flask SQLAlchemy](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=simple-crud-flask&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/simple-crud-flask)
+&nbsp;
+[![FCM Web Client](https://github-readme-stats.vercel.app/api/pin/?username=[tu-usuario]&repo=fcm-web-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d28c&text_color=c9d1d9&icon_color=00d28c)](https://github.com/[tu-usuario]/fcm-web-client)
+
+</div>
+
+---
+
+## 📂 &nbsp;Todos mis proyectos
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🧾 [Sistema de Facturación](https://github.com/[tu-usuario]/facturas) | Generación y gestión de facturas con reglas de negocio | `Python` `Flask` `SQLAlchemy` `PDF` |
+| 💸 [API Remesas Admin](https://github.com/[tu-usuario]/api_remesas_admin) | API REST para administración de remesas financieras | `Python` `Flask` `REST` `SQLAlchemy` |
+| 🗄️ [Simple CRUD Flask](https://github.com/[tu-usuario]/simple-crud-flask) | CRUD completo con arquitectura MVC | `Flask` `SQLAlchemy` `SQLite` |
+| 🔔 [FCM Web Client](https://github.com/[tu-usuario]/fcm-web-client) | Cliente web para Firebase Cloud Messaging | `JavaScript` `Firebase` `FCM` |
+| 📷 [QR Reader](https://github.com/[tu-usuario]/qr_reader) | Lector de códigos QR con procesamiento de imágenes | `Python` `OpenCV` |
+| 💱 [MXN → CUP](https://github.com/[tu-usuario]/mxn-to-cup) | Conversor de divisas consumiendo APIs externas | `Python` `APIs REST` |
+| 📥 [YTdwnld](https://github.com/[tu-usuario]/YTdwnld) | Herramienta de automatización para descarga de contenido | `Python` `Automatización` |
+
+---
+
+## 🎯 &nbsp;En qué puedo aportar
+
+```
+✅  Sistemas de facturación, remesas y gestión administrativa
+✅  APIs REST con Flask y SQLAlchemy
+✅  Automatización de procesos empresariales con Python
+✅  Integración con servicios cloud (Firebase, Supabase)
+✅  Bases de datos relacionales (PostgreSQL, SQLite)
+✅  Comprensión profunda de procesos financieros y de negocio
+```
+
+---
+
+## 📬 &nbsp;Contáctame
+
+<div align="center">
+
+¿Tienes un proyecto o una vacante donde pueda aportar?
+
+**¡Hablemos!**
+
+<br/>
+
+<a href="mailto:[tu@email.com]">
+  <img src="https://img.shields.io/badge/Enviar%20un%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/[tu-perfil]">
+  <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d28c&height=100&section=footer" width="100%"/>
+</div>
